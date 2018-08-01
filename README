@@ -1,0 +1,9 @@
+Welcome to the Bi-component-droplet-heating-and-evaporation wiki!
+
+UDF for defining the heat and mass transport for Bi-component Droplet vaporization Has been tested with ANSYS Fluent 17.2
+
+Liquid properties are from Sazhin, S.S., et al., A simplified model for bi-component droplet heating and evaporation. International Journal of Heat and Mass Transfer, 2010. 53(21-22): p. 4495-4505.
+
+If you use our software, please cite the following: O. Rybdylova, L. Poulton, M. Al Qubeissi, A.E. Elwardany, C. Crua, T. Khan, S.S. Sazhin, A model for multi-component droplet heating and evaporation and its implementation into ANSYS Fluent, International Communications in Heat and Mass Transfer, Volume 90, 2018, Pages 29-33, ISSN 0735-1933, https://doi.org/10.1016/j.icheatmasstransfer.2017.10.018.
+
+Copyright (C) 2018 Oyuna Rybdylova, Luke Poulton - All Rights Reserved You may use, distribute and modify this code under the terms of the MIT license
